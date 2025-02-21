@@ -37,7 +37,7 @@ function Footer() {
             <VStack align={{ base: 'center', md: 'start' }} spacing={4}>
               <Text fontSize="lg" fontWeight="bold">Контакты</Text>
               <HStack spacing={4}>
-                <Link href="https://github.com/901ubb" isExternal>
+                <Link href="https://github.com/9o1ub" isExternal>
                   <Icon as={FaGithub} w={6} h={6} />
                 </Link>
                 <Link href="https://t.me/mbtiaitest" isExternal>
